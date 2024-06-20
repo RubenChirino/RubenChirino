@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ruben! 😁
+### Hi there 👋, I am [Ruben](https://rubenchirino.com)! 😁
 
 Hello, my name is Ruben and I am a Software Engineer with a passion for creating beautiful and functional systems. ✨
 
@@ -13,5 +13,6 @@ I'm a Full Stack developer with strong knowledge in architecture, design systems
 #### Products & Tools I've worked on
 
 - [CodeMaster](https://code-master.dev) - Founder of a platform to create & practice coding challenges with AI.
+- [Website](https://rubenchirino.com) - Check out my personal website. Blogs and project sections coming soon :)
 - [3D Viewer](https://fresco-design.com.ar/labs/Fresco3DViewer) - A 3D viewer library to visualize & configure 3D models.
 - [MercadoPago Checkout Web](https://www.mercadopago.com.ar/developers/es/live-demo/checkout-pro) - The MercadoPago Checkout Web.
