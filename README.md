@@ -10,7 +10,7 @@ I'm a Full Stack developer with strong knowledge in architecture, design systems
 - 📫 How to reach me: <rubenchirinosdev@gmail.com>
 - ❤️ Hobbies: Music, Travel, and Gaming
 
-#### Products & Tools I've worked on
+#### Products & Tools I've worked on 👨‍💻 ✨ 
 
 - [CodeMaster](https://code-master.dev) - Founder of a platform to create & practice coding challenges with AI.
 - [Website](https://rubenchirino.com) - Check out my personal website. Blogs and project sections coming soon :)
