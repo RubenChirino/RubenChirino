@@ -6,7 +6,7 @@ I'm a Full Stack developer with strong knowledge in architecture, design systems
 
 - 🌱 I’m currently learning and experimenting with LLMs and AI agents, creating tools to increase productivity.
 - 💬 Brainstorm with me about tech, algorithms, career, and music.
-- 📫 How to reach me: <rubenchirinosdev@gmail.com>
+- 📫 How to reach me: <rubenchch21es@gmail.com>
 - ❤️ Hobbies: Music, Travel, and Sports
 
 #### Products & Tools I've worked on 👨‍💻 ✨ 
