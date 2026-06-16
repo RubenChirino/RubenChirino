@@ -12,6 +12,6 @@ I'm a Full Stack developer with strong knowledge in architecture, design systems
 #### Products & Tools I've worked on 👨‍💻 ✨ 
 
 - [CodeMaster](https://code-master.dev) - Founder of a platform to create & practice coding challenges with AI.
-- [3D Viewer](https://fresco-design.com.ar/labs/Fresco3DViewer) - A 3D viewer library to visualize & configure 3D models.
+- [3D Viewer](https://s3.us-east-1.amazonaws.com/fresco-augmented-reality.com/libs/demo/index.html) - A 3D viewer library to visualize & configure 3D models.
 - [MercadoPago Checkout Web](https://www.mercadopago.com.ar/developers/es/live-demo/checkout-pro) - The MercadoPago Checkout Of Web.
 - [Website](https://rubenchirino.com) - Check out my personal website.
