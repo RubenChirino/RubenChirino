@@ -18,4 +18,4 @@ I'm a full-stack developer with strong knowledge in architecture, design systems
 - [Financial Coach](https://financial-coach-ai.vercel.app) - Local-first, open-source finance app: PSD2 Open Banking aggregation, LLM-based
 categorization, and data-grounded advice.
 - [Beacon, Status Monitor](https://www.beacon-status.com) - Uptime-monitoring SaaS with instant downtime alerts and shareable real-time status pages.
-- [TempBucket](tempbucket.dpdns.org) - A full-stack disposable email service.
+- [TempBucket](https://tempbucket.dpdns.org) - A full-stack disposable email service.
