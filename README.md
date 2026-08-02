@@ -39,7 +39,7 @@
   <tr>
     <td width="20%" valign="top">
       <sub><b>2022 — 2024</b></sub><br>
-      <sub>MERCADO LIBRE</sub>
+      <sub><a href="https://www.mercadolibre.com.ar">MERCADO LIBRE</a></sub>
     </td>
     <td valign="top">
       <b><a href="https://www.mercadopago.com.ar/developers/es/live-demo/checkout-pro">MercadoPago Checkout</a></b><br>
@@ -50,7 +50,7 @@
   <tr>
     <td width="20%" valign="top">
       <sub><b>2020 — 2022</b></sub><br>
-      <sub>FRESCO DESIGN</sub>
+      <sub><a href="https://fresco-design-page.vercel.app">FRESCO DESIGN</a></sub>
     </td>
     <td valign="top">
       <b><a href="https://s3.us-east-1.amazonaws.com/fresco-augmented-reality.com/libs/demo/index.html">Fresco 3D Viewer</a></b><br>
@@ -61,11 +61,11 @@
   <tr>
     <td width="20%" valign="top">
       <sub><b>2019 — 2020</b></sub><br>
-      <sub>KRIMAX</sub>
+      <sub><a href="https://www.krimaxsoft.com">KRIMAX</a></sub>
     </td>
     <td valign="top">
       <b>E-commerce platforms</b><br>
-      Storefronts for client brands: social sign-up, multiple payment gateways and deeply customisable layouts, built on Laravel and .NET.<br>
+      Storefronts for client brands: social sign-up, multiple payment gateways and deeply customisable layouts, built on Laravel and .NET. (Websites: <a href="https://kolm.cl">Kolm</a>, <a href="https://www.seisatek.com.ar">Seisa</a>)<br>
       <sub>LARAVEL · .NET · BLAZOR · SQL SERVER</sub>
     </td>
   </tr>
